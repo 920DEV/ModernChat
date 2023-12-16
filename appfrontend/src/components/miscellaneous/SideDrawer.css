@@ -1,0 +1,8 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.SideDrawer{
+    background-color: rgb(16, 163, 163);
+}
